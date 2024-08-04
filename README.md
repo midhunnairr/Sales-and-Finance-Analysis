@@ -32,4 +32,20 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 •	Designing user-centric reports with empathy in mind
 •	Optimization of report generation through meticulous fine-tuning
 •	Developing a systematic approach to devising a report building plan
+# **Links**
+Customer Net Sales Performance of India:[IndiaSalesReport](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/AtliQHardwares_IndiaSalesReport.pdf)
+Customer Net Sales Performance:[Net Sales Performance](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/AtliQHardwares_NetSalesReport.pdf)
+Sales Target:[Sales Target](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/AtliQSalesTarget.pdf)
+Gross MArgin %:[GM%](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/GM%25.pdf)
+Market Performance vs Target:[Market Performance](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/Market%20Performance%20vs%20Target.pdf)
+Profit & Loss Market:[P&L Market](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/P%26L%20Market.pdf)
+Profit & Loss Year:[P&L Year](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/P%26L%20Year.pdf)
+Project Priority Matrix:[Priority Matrix](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/Project%20priority%20matrix.pdf)
+Top 10 Products:[Top 10 Products](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/Top%2010.pdf)
+Top countries:[Top Countries](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/Top%20countries.pdf)
+Top 5 and Bottom 5 countries:[Top and Bottom 5 Countries](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/Top5%20and%20Bottom%205.pdf)
+Division:[Division](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/division.pdf)
+New Products:[New Products](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/new%20products.pdf)
+Scneario Planning Tool:[Scenario Planning](https://github.com/midhunnairr/Sales-and-Finance-Analysis/blob/main/scenario%20planning%20tool.pdf)
+
 
